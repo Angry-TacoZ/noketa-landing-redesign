@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+
+/* Display copy remains expressive, but no longer trades legibility for compression. */
+.hero h1,
+.statement h2,
+.workflow h2,
+.developer h2,
+.closing h2 {
+  font-family: "Manrope", Arial, sans-serif;
+  font-weight: 600;
+  line-height: 0.9;
+  letter-spacing: -0.062em;
+}
+
+.hero h1 em,
+.closing h2 em {
+  letter-spacing: -0.055em;
+}
