@@ -4,7 +4,7 @@ Create a portfolio-ready redesign concept for Noketa's landing page, responding 
 
 # Current status
 
-Implemented and published as a public GitHub repository: `https://github.com/Angry-TacoZ/noketa-landing-redesign`. The project is ready for code review; it has not been deployed or submitted to Noketa.
+Implemented and published as a public GitHub repository: `https://github.com/Angry-TacoZ/noketa-landing-redesign`. The project is ready for code review; it has not been deployed or submitted to Noketa. The public README now uses shorter copy and standard punctuation.
 
 # Decisions
 
@@ -20,7 +20,7 @@ Implemented and published as a public GitHub repository: `https://github.com/Ang
 - `app/globals.css` - responsive visual system and motion.
 - `app/readability.css` - legible Manrope display-heading override.
 - `app/icon.svg` - branded browser icon, removing the production favicon 404.
-- `README.md` - stack, implementation, style, and concept-notice documentation.
+- `README.md` - stack, implementation, style, concept-notice documentation, and a wording refinement.
 - `eslint.config.mjs` - excludes generated Next and browser-artifact output from source linting.
 
 # Verification
